@@ -1,1 +1,1 @@
-web: npx json-server --watch db.json --port 3000
+web: npx json-server --watch db.json --port $PORT
